@@ -96,7 +96,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Class X</h3>
                 <span className="qualification__subtitle">
                   {" "}
-                  Vidhyadhari Public School Anakapalli <br /> Agrregate of{" "}
+                  Vidyadhari Public School Anakapalli <br /> Agrregate of{" "}
                   <span style={{ fontWeight: "bold" }}>9.7 GPA</span>
                 </span>
                 <div className="qualification__calender">

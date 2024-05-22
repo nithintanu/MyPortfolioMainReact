@@ -28,7 +28,8 @@ const Works = () => {
             <span
               onClick={(e) => handleClick(e, index)}
               key={index}
-              className={`${active === index ? "active-work" : ""} work__item`}>
+              className={`${active === index ? "active-work" : ""} work__item`}
+            >
               {item.name}
             </span>
           );
